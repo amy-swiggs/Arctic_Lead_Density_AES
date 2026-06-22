@@ -11,11 +11,11 @@ ATL07 along-track sea ice data, downloaded from Earthdata using Earthaccess\
 [ATBD](https://nsidc.org/sites/default/files/documents/technical-reference/icesat2_atl07_10_20_21_atbd_v007.pdf) |
 [Data Dictionary](https://nsidc.org/sites/default/files/documents/technical-reference/icesat2_atl07_data_dict_v007.pdf) |
 [Earth Access Documentation](https://earthaccess.readthedocs.io/en/latest/) |\
-Thanks to Earth Access for the very useful documentation for downloading and processing IS2 data.
+Thanks to Earth Access for the very useful documentation for downloading and processing IS2 data
 
 **CryoSat-2**\
 ESA Level 1B sea ice data, processed according to the CPOM sea ice processing chain\
-Thanks to Ben Palmer, Alan Muir, and Andy Ridout for their effort in making the CPOM sea ice processing chain open-access.\
+Thanks to Ben Palmer, Alan Muir, and Andy Ridout for their effort in making the CPOM sea ice processing chain open-access\
 Data available for download from ESA via [ftp](https://earth.esa.int/eogateway/catalog/cryosat-products)\
 [CPOM Processing Chain](https://github.com/CPOM-Altimetry) |
 [Tilling et al. (2018)](https://www.sciencedirect.com/science/article/pii/S0273117717307901) |
