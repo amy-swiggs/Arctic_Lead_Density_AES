@@ -1,6 +1,6 @@
 # Arctic Lead Density AES
 Code for reproducing the figures in the manuscript titled
-'Arctic Lead Density from Multi-Mission Radar and Laser Satellite Altimetry', submitted to Journal of Geophysical Research: Oceans on 30/06/2026.
+'Regional and Temporal Variability in Arctic Lead Density from Multi-Mission Satellite Altimetry', submitted to Journal of Geophysical Research: Oceans on 30/06/2026.
 
 All data used in the study are available from open sources listed below. The methods for generating lead density from CS2, IS2, and S3 is outlined in the manuscript.
 
