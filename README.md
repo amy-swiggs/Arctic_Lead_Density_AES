@@ -2,7 +2,7 @@
 Code for reproducing the figures in the manuscript titled
 'Regional and Temporal Variability in Arctic Lead Density from Multi-Mission Satellite Altimetry', submitted to Journal of Geophysical Research: Oceans on 30/06/2026.
 
-All data used in the study are available from open sources listed below. The methods for generating lead density from CS2, IS2, and S3 is outlined in the manuscript.
+All data used in the study are available from the open sources listed below. The methods for generating lead density from CS2, IS2, and S3 are outlined in the manuscript.
 
 ## Raw Data
 **ICESat-2**\
